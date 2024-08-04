@@ -1,0 +1,14 @@
+name: CloudUpdates
+version: 1.0
+main: me.sam.updates.Updates
+description: sams update plugin
+commands:
+  addupdate:
+    permission: SamUpdates.addupdate
+  updates:
+  addupdatesilent:
+    permission: SamUpdates.addupdate
+  removeupdate:
+    permission: SamUpdates.removeupdate
+  insertupdate:
+    permission: SamUpdates.insertupdate
